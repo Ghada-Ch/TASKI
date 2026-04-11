@@ -1,5 +1,3 @@
-# TASKI
-
 <p align="center">
   <img src="./frontend/public/taski-wordmark.svg" alt="TASKI wordmark" width="260" />
 </p>
