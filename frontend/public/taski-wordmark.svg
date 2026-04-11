@@ -1,0 +1,23 @@
+<svg width="420" height="110" viewBox="0 0 420 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="boxGradient" x1="18" y1="14" x2="78" y2="82" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#4F46E5"/>
+    </linearGradient>
+    <linearGradient id="textGradient" x1="110" y1="28" x2="355" y2="82" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="98" height="98" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#1E3A8A" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <rect x="18" y="14" width="60" height="60" rx="12" fill="url(#boxGradient)"/>
+  </g>
+
+  <text x="48" y="54" text-anchor="middle" dominant-baseline="middle" fill="white" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700">✓</text>
+
+  <text x="104" y="58" fill="url(#textGradient)" font-size="42" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="1">TASKI</text>
+</svg>
