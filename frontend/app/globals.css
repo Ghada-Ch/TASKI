@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.perspective {
+  perspective: 1000px;
+}
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.rbc-calendar {
+  background-color: white; /* calendar background */
+  color: #1f2937; /* text color */
+}
+
+.rbc-header {
+  background-color: #f3f4f6; /* header row (days) */
+  color: #374151; /* header text */
+  font-weight: 600;
+}
+
+.rbc-event {
+  background-color: #3b82f6; /* blue event */
+  color: white; /* event text */
+  border-radius: 0.5rem;
+  padding: 0.2rem 0.5rem;
+}
