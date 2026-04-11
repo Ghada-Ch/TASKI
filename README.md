@@ -1,8 +1,9 @@
 # TASKI
 
 <p align="center">
-  <img src="./frontend/public/logo.png" alt="TASKI logo" width="140" />
+  <img src="./frontend/public/taski-wordmark.svg" alt="TASKI wordmark" width="260" />
 </p>
+
 
 <p align="center">
   <strong>A full-stack project management platform for teams that need clarity, speed, and visibility.</strong>
