@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 <p align="center">
   <img src="./frontend/public/taski-wordmark.svg" alt="TASKI wordmark" width="260" />
 </p>
 
-=======
->>>>>>> 410fc6b (prepare backend for render)
-
+<p align="center" ><a href="https://taski-u0yyffaau-ghada-chs-projects.vercel.app/login">viste TASKI website</a></p>
 <p align="center">
   <strong>A full-stack project management platform for teams that need clarity, speed, and visibility.</strong>
 </p>
