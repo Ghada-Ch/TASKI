@@ -1,7 +1,14 @@
 <p align="center">
   <img src="./frontend/public/taski-wordmark.svg" alt="TASKI wordmark" width="260" />
 </p>
-
+<p align="center"><a
+    href="https://taski-beta.vercel.app/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="px-5 py-2 bg-white text-purple-700 rounded-xl font-medium hover:scale-105 transition inline-block"
+  >
+    Live Demo
+  </a></p>
 <p align="center">
   <strong>A full-stack project management platform for teams that need clarity, speed, and visibility.</strong>
 </p>
