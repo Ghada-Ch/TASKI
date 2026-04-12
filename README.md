@@ -2,7 +2,7 @@
   <img src="./frontend/public/taski-wordmark.svg" alt="TASKI wordmark" width="260" />
 </p>
 
-<p align="center" ><a href="https://taski-beta.vercel.app/">viste TASKI website</a></p>
+<p align="center" ><a href="https://taski-beta.vercel.app">viste TASKI website</a></p>
 <p align="center">
   <strong>A full-stack project management platform for teams that need clarity, speed, and visibility.</strong>
 </p>
