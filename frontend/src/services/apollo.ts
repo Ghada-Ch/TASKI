@@ -1,7 +1,7 @@
 import { ApolloClient, InMemoryCache, HttpLink, ApolloLink } from '@apollo/client';
 
 const httpLink = new HttpLink({
-  uri: 'http://localhost:4000/graphql', //  NestJS GraphQL endpoint
+  uri: 'https://taski-665e.onrender.com/graphql', //  NestJS GraphQL endpoint
   credentials: 'same-origin',           // optional, depends on auth
 });
 
