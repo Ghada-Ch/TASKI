@@ -468,8 +468,4 @@ This repository contains both the product interface and the API layer, making it
 
 ---
 
-## License
-
-This project is currently provided as `UNLICENSED` in the backend package configuration.  
-Add the license you want before publishing publicly.
 
